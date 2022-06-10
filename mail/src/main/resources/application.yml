@@ -1,0 +1,6 @@
+app:
+  email:
+    user: ioana.mihai.alexandra@gmail.com
+    pwd: Mihai2913
+    host: smtp.gmail.com
+    port: 465
